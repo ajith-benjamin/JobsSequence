@@ -1,0 +1,10 @@
+D:\bkp\JobTest\bin\Debug\netcoreapp2.1\JobsExecutionSequence.deps.json
+D:\bkp\JobTest\bin\Debug\netcoreapp2.1\JobsExecutionSequence.runtimeconfig.json
+D:\bkp\JobTest\bin\Debug\netcoreapp2.1\JobsExecutionSequence.runtimeconfig.dev.json
+D:\bkp\JobTest\bin\Debug\netcoreapp2.1\JobsExecutionSequence.dll
+D:\bkp\JobTest\bin\Debug\netcoreapp2.1\JobsExecutionSequence.pdb
+D:\bkp\JobTest\obj\Debug\netcoreapp2.1\JobsExecutionSequence.csproj.CoreCompileInputs.cache
+D:\bkp\JobTest\obj\Debug\netcoreapp2.1\JobsExecutionSequence.AssemblyInfoInputs.cache
+D:\bkp\JobTest\obj\Debug\netcoreapp2.1\JobsExecutionSequence.AssemblyInfo.cs
+D:\bkp\JobTest\obj\Debug\netcoreapp2.1\JobsExecutionSequence.dll
+D:\bkp\JobTest\obj\Debug\netcoreapp2.1\JobsExecutionSequence.pdb
